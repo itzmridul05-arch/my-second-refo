@@ -1,0 +1,1 @@
+print ("mahafuj  tore fack youu ")
